@@ -79,7 +79,9 @@ img, video, audio {
 
 /*////// Layout //////*/
 
-*
+* {
+  
+}
 
 .wrapper {
   width: 1080px;
