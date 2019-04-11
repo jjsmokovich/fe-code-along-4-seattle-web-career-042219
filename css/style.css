@@ -134,5 +134,5 @@ section {
 /*//////// Social /////////*/
 
 #social {
-  position
+  position: fixed;
 }
