@@ -80,7 +80,8 @@ img, video, audio {
 /*////// Layout //////*/
 
 * {
-  -webkit-box-sizing: border-box
+  -webkit-box-sizing: border-box;
+  
 }
 
 .wrapper {
