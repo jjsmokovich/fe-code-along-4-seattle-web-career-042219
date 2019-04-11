@@ -126,7 +126,9 @@ img, video, audio {
 
 /*//////// Sections /////////*/
 
-header
+header {
+  
+}
 
 section {
   padding: 20px;
